@@ -1,0 +1,39 @@
+com/example/moviedb/model/Movies.java
+ com.example.moviedb.model.Movies
+ com.example.moviedb.model.Movies$1
+ com.example.moviedb.model.Movies$GenresDTO
+ com.example.moviedb.model.Movies$ProductionCompaniesDTO
+ com.example.moviedb.model.Movies$ProductionCountriesDTO
+ com.example.moviedb.model.Movies$SpokenLanguagesDTO
+com/example/moviedb/BuildConfig.java
+ com.example.moviedb.BuildConfig
+com/example/moviedb/view/NowPlayingActivity.java
+ com.example.moviedb.view.NowPlayingActivity
+ com.example.moviedb.view.NowPlayingActivity$1
+com/example/moviedb/helper/Const.java
+ com.example.moviedb.helper.Const
+com/example/moviedb/model/NowPlaying.java
+ com.example.moviedb.model.NowPlaying
+ com.example.moviedb.model.NowPlaying$1
+ com.example.moviedb.model.NowPlaying$DatesDTO
+ com.example.moviedb.model.NowPlaying$ResultsDTO
+com/example/moviedb/repositories/MovieRepository.java
+ com.example.moviedb.repositories.MovieRepository
+ com.example.moviedb.repositories.MovieRepository$1
+ com.example.moviedb.repositories.MovieRepository$2
+com/example/moviedb/retrofit/ApiService.java
+ com.example.moviedb.retrofit.ApiService
+com/example/moviedb/viewmodel/MovieViewModel.java
+ com.example.moviedb.viewmodel.MovieViewModel
+com/example/moviedb/retrofit/ApiEndPoint.java
+ com.example.moviedb.retrofit.ApiEndPoint
+com/example/moviedb/view/MainActivity.java
+ com.example.moviedb.view.MainActivity
+ com.example.moviedb.view.MainActivity$1
+ com.example.moviedb.view.MainActivity$2
+com/example/moviedb/view/MovieDetailsActivity.java
+ com.example.moviedb.view.MovieDetailsActivity
+com/example/moviedb/adapter/NowPlayingAdapter.java
+ com.example.moviedb.adapter.NowPlayingAdapter
+ com.example.moviedb.adapter.NowPlayingAdapter$1
+ com.example.moviedb.adapter.NowPlayingAdapter$CardViewViewHolder
